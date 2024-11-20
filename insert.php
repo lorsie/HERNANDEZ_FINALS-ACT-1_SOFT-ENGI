@@ -7,6 +7,18 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Document</title>
 	<link rel="stylesheet" href="style.css">
+	 <style>
+		body {
+			font-family: "system-ui";
+			background-color: #F0C1E1;
+		}
+		input {
+			font-size: 1.2em;
+			height: 40px;
+			width: 200px;
+			background-color: #FDE7BB;
+		}
+	</style>
 </head>
 <body>
 	<a href="index.php">Back</a>
