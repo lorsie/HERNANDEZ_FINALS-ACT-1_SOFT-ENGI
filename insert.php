@@ -10,7 +10,7 @@
 </head>
 <body>
 	<a href="index.php">Back</a>
-	<h1>Fill this up to insert a new applicant nurse</h1>
+	<h1>Fill this up to insert a new applicant for Hotel Staffs</h1>
 	<form action="core/handleForms.php" method="POST">
 		<p>
 			<label for="firstName">First Name</label> 
